@@ -8,9 +8,9 @@ parallel-jobs = 1
 
 [YouTube-Extended]
 app-name = "YouTube"
-patches-source = "kitadai31/revanced-patches-android6-7"
-integrations-source = "kitadai31/revanced-integrations"
-cli-source = "kitadai31/revanced-cli"
+patches-source = "anddea/revanced-patches-android6-7"
+integrations-source = "anddea/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
