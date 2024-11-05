@@ -8,7 +8,7 @@ parallel-jobs = 1
 
 [YouTube-Extended]
 app-name = "YouTube"
-patches-source = "anddea/revanced-patches-android6-7"
+patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
